@@ -6,6 +6,8 @@ spring:
       server:
         git:
           uri: https://github.com/aixinjian/ms-test-config-file.git
-          skipSslValidation: true
           username: 229380496@qq.com
-          password: aijian1988512
+          password: aijian1900
+          default-label: master
+          search-paths: config
+
